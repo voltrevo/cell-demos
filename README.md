@@ -1,1 +1,6 @@
-# cell-demos
+# Cell Demos
+
+```sh
+yarn
+yarn serve
+```

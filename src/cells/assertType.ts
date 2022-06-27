@@ -1,5 +1,5 @@
 import * as io from 'io-ts';
-import assert from '../helpers/assert';
+import assert from './helpers/assert';
 
 import isType from './isType';
 

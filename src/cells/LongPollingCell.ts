@@ -1,4 +1,4 @@
-import assert from '../helpers/assert';
+import assert from './helpers/assert';
 import { FormulaCell } from './FormulaCell';
 import { IReadableCell } from './ICell';
 import MemoryCell from './MemoryCell';

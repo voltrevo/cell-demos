@@ -1,8 +1,8 @@
 ## cells
 
-MIT licensed, see cells/README.md
+MIT licensed, see src/cells/README.md
 
 
-## demos
+## everything else
 
 CC0: https://creativecommons.org/publicdomain/zero/1.0/legalcode
